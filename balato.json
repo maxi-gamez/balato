@@ -1,0 +1,18 @@
+{
+  "id": "balato",
+  "name": "balato",
+  "author": [
+    "Cinnabruh"
+  ],
+  "description": "made ts with joker forge so its might be buggy\nWelcome one and all to balato!\nunbalanced cards, silly goofs, damn booster packs for vouchers, a whole new rarity and a new series of jokers! the \"tarnished\" jokers are basically unbalanced versions of base jokers and i thought it would be funny to add lore!\n\nOn march 3rd, 2026, photograph and hanging chad were in a abandoned museum, when they discovered an ancient curse trapped in a box. the cursed contained an entity that acted like parasite that took over hanging chad and making him go insane. this curse/entity/infection spread worldwide, attacking the easy targets like blueprint and jolly joker. blueprint was he first to notify baron, but 5 days later, it was too late. baron went missing.",
+  "prefix": "balato",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": 0,
+  "badge_colour": "ffffff",
+  "badge_text_colour": "FF3333",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)",
+    "Talisman"
+  ]
+}
